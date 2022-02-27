@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Lords and Commons, presented to His Majestie by the Earle of Stamford, Master Chancellour of the Exchequer, and Master Hungerford, April 18. 1642 Together with His Majesties answer thereunto.</title>
+            <title>Humble petition of the Lords and Commons assembled in Parliament presented to His Majestie at York, 18 April, concerning his message lately sent unto them touching his resolution of going into Ireland</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83380</idno>
+            <idno type="STC">Wing E2179aA</idno>
+            <idno type="STC">ESTC R224956</idno>
+            <idno type="EEBO-CITATION">99897773</idno>
+            <idno type="PROQUEST">99897773</idno>
+            <idno type="VID">170963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2533:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Lords and Commons, presented to His Majestie by the Earle of Stamford, Master Chancellour of the Exchequer, and Master Hungerford, April 18. 1642 Together with His Majesties answer thereunto.</title>
+                  <title>Humble petition of the Lords and Commons assembled in Parliament presented to His Majestie at York, 18 April, concerning his message lately sent unto them touching his resolution of going into Ireland</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most Excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published with titles "The petition of both houses", "The humble petition of the Lords &amp; Commons" and "The petition and reasons of both houses".</note>
+                  <note>In this edition, there are two rows of ornaments, the first with seven ornaments, the second with four, and the imprint date is in Roman numerals. Another edition has one row of four ornaments on the title page and the imprint date is in Arabic numerals.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hungerford, Anthony, d. 1657 --  Early works to 1800.</term>
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170963:1"/>
+            <p>THE PETITION OF The LORDS and COMMONS, PRESENTED To His Majeſtie By the Earle of <hi>Stamford,</hi> Maſter Chan<g ref="char:EOLhyphen"/>cellour of the Exchequer, and Maſter <hi>Hungerford,</hi> April 18. 1642. Together with His MAjESTIES Anſwer thereunto.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:170963:2"/>
+            <pb n="1" facs="tcp:170963:2"/>
+            <head>
+               <hi>To the Kings moſt Excellent Majeſtie</hi> The humble Petition of the Lords and Commons aſſembled in Parliament.</head>
+            <opener>
+               <salute>May it pleaſe your Majestie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt loyall and faithfull Subjects, the Lords and Commons in Parliament have duly conſidered the Meſſage received from Your Ma<g ref="char:EOLhyphen"/>jeſtie, concerning Your purpoſe of going into <hi>Ireland</hi> in Your own Per<g ref="char:EOLhyphen"/>ſon, to proſecute the warre there with the bodies of your
+<hi>Engliſh</hi> Subjects, leavied, tranſported, and maintained at their charge, which You are pleaſed to propound to us, not as a matter wherein Your Majeſtie deſires the advice of Your Parliament, but as already firmly reſolved on, and forthwith to be put in execution, by granting out Commiſſions for the leavying of two thouſand foot, &amp; two hundred horſe for a guard for Your Perſon when You ſhall come into that Kingdom: where<g ref="char:EOLhyphen"/>in we cannot chuſe but with all reverence and humility to Your Majeſtie, obſerve that You have declined Your great Councell the Parliament, and varied from the uſu<g ref="char:EOLhyphen"/>all courſe of Your Royall Predeceſſours, That a buſineſſe of ſo great importance concerning the peace and ſafety of all Your Subjects, and wherin they have a ſpeciall intereſt by Your Majeſties promiſe, and by thoſe great ſums which they have disburſed, and for which they ſtand in<g ref="char:EOLhyphen"/>gaged,<pb n="2" facs="tcp:170963:3"/>ſhould be concluded and undertaken without their advice: Whereupon we hold it our duty to declare, That if at this time Your Majeſtie ſhal go into <hi>Ireland,</hi> You will very much endanger the ſafety of Your Royall Perſon and Kingdoms, and of all other States profeſſing the Pro<g ref="char:EOLhyphen"/>teſtant Religion in Chriſtendom, and make way to the ex<g ref="char:EOLhyphen"/>ecution of that cruell and bloudy Deſigne of the Papiſts every where to root out and deſtroy the reformed Religi<g ref="char:EOLhyphen"/>gion, as the <hi>Iriſh</hi> Papiſts have in a great part already ef<g ref="char:EOLhyphen"/>fected in that Kingdom, and in all likelyhood would quickly be atempted in other places, if the conſideration of the ſtrength and union of the two Nations of <hi>England</hi> and <hi>Scotland</hi> did not much hinder and diſcourage the exe<g ref="char:EOLhyphen"/>cution of any ſuch Deſigne. And that we may manifeſt to Your Majeſtie the danger and miſery, which ſuch a jour<g ref="char:EOLhyphen"/>ney and enterprize would produce, we preſent to Your Majeſtie the reaſons of this our humble opinion and advice.</p>
+            <list>
+               <item>1 YOur Royall Perſon will be ſubject, not onely to the caſualty of Warre, but to ſecret practices and conſpiracies, eſpecially Your Majeſtie continuing Your profeſſion to maintain the Proteſtant Religion in that Kingdom, which the Papiſts are generally bound by their vow to extirpate.</item>
+               <item>2 It will exceedingly encourage the Rebels, who doe generally profeſſe and declare, that Your Majeſtie doth favour &amp; allow their proceedings, &amp; that this inſurrecti<g ref="char:EOLhyphen"/>on was undertaken by the Warrant of Your Commiſſion, and it will make good their expectation of great ad<g ref="char:EOLhyphen"/>vantage by Your Majeſties preſence at this time of ſo much diſtraction in this Kingdom, whereby they may hope we ſhall be diſabled to ſupply the Warre there, e<g ref="char:EOLhyphen"/>ſpecially<pb n="3" facs="tcp:170963:3"/>there appearing leſſe neceſſity of Your Majeſties Journey at this time, by reaſon of the manifold ſucceſſes which God hath given againſt them.</item>
+               <item>3. It will much hinder and impair the meanes where<g ref="char:EOLhyphen"/>by this war is to be ſupported, and increaſe the charge of it, and in both theſe reſpects, make it more in ſup<g ref="char:EOLhyphen"/>portable to your Subject: and this we can confidently affirme, becauſe many of the Adventurers, who have al<g ref="char:EOLhyphen"/>ready ſubſcribed, do upon the knowledge of your Maje<g ref="char:EOLhyphen"/>ſties Intention, declare their reſolution, not to pay in their money; and others very willing to have ſubſcribed, do now profeſſe the contrary.</item>
+               <item>4. Your Majeſties abſence muſt neceſſarily very much interrupt the proceedings of Parliament, and deprive your Subjects of the benefit of thoſe further Acts of Grace, and Juſtice, which we ſhall humbly ex<g ref="char:EOLhyphen"/>pect from your Majeſty, for the eſtabliſhing of a perfect union, and mutuall confidence betwixt Your Majeſty and Your People, and procuring and confirming the proſperity and happineſſe of both.</item>
+               <item>5. It will exceedingly increaſe the jealouſies and fears of your people, and render their doubts more probable, of ſome force intended by ſome evil counſells neer Your Majeſty, in oppoſition of the Parliament, and favour of the malignant party of this Kingdom.</item>
+               <item>6. It will bereave your Parliament of that advan<g ref="char:EOLhyphen"/>tage, whereby they were induced to undertake this war, upon Your Majeſties promiſe that it ſhould be managed by their advice; which cannot be done, if Your Maje<g ref="char:EOLhyphen"/>ſtie contrary to their counſells ſhall undertake to order and govern it in Your own Perſon.</item>
+            </list>
+            <p>Upon which and divers other reaſons we have re<g ref="char:EOLhyphen"/>ſolved, by the full and concurring agreement of both<pb n="4" facs="tcp:170963:4"/>Houſes, that we cannot with diſcharge of our dutie con<g ref="char:EOLhyphen"/>ſent to any Leavyes, or raiſing of Souldiers to be made by Your Majeſty for this your intended expedition in<g ref="char:EOLhyphen"/>to
+<hi>Ireland,</hi> or to the payment of any Army or Souldiers there, but ſuch as ſhall be imployed and governed ac<g ref="char:EOLhyphen"/>cording to our advice and direction; and that if ſuch Leavyes ſhalbe made by any Commiſſion of Your Maje<g ref="char:EOLhyphen"/>ſty (not agreed to by both Houſes of Parliament) we ſhall be forced to interpret the ſame to be raiſed to the terrour of Your people, and diſturbance of the publike peace, and hold our ſelves bound, by the Laws of the King<g ref="char:EOLhyphen"/>dom, to apply the Authority of Parliament to ſuppreſſe the ſame.</p>
+            <p>And we do further moſt humbly declare, That if Your Majeſty ſhall by ill counſell be perſwaded to go, contrary to this advice of Your Parliament (which we hope Your Majeſty will not) We do not in that caſe hold our ſelves bound to ſubmit to any Commiſſioners, which Your Majeſty ſhall chooſe, but do reſolve to preſerve and governe the Kingdom by the counſell and advice of Parliament for Your Majeſtie and Your Poſteritie, ac<g ref="char:EOLhyphen"/>cording to our Allegiance, and the Law of the Land.</p>
+            <p>Wherefore we do moſt humbly pray, and adviſe Your Majeſtie, to deſiſt from this your intended paſſage into <hi>Ireland,</hi> and from all preparation of men and Armes tending thereunto, and to leave the managing of that war to Your Parliament, according to Your Majeſties promiſe made unto us, and Your Royall Commiſſion granted under Your great Seal of <hi>England,</hi> by advice of both Houſes, in proſecution whereof, by Gods bleſſing, we have already made a proſperous entrance by many defeats of the Rebels, whereby they are much weakened and diſheartened, and have no probable meanes of ſub<g ref="char:EOLhyphen"/>ſiſtance,<pb n="5" facs="tcp:170963:4"/>if our proceedings ſhall not be interrupted by this interpoſition of Your Majeſties Journey, but that we may hope upon good grounds, that within a ſhort time, without Hazard of Your Majeſties perſon, and ſo much dangerous confuſion to Your Kingdoms (which muſt needs enſue) if you ſhould proceed in this reſoluti<g ref="char:EOLhyphen"/>on, we ſhall be enabled fully to vindicate Your Maje<g ref="char:EOLhyphen"/>ſties right and authority in that Kingdom, and puniſh thoſe horrible outragious cruelties, which have been committed in the murthering and ſpoiling ſo many of your Subjects, and bring that Realm to ſuch a condition as may be much for the advantage of your Majeſtie; and this Crown, the honour of your government, and con<g ref="char:EOLhyphen"/>tentment of your people. For the better, and more ſpee<g ref="char:EOLhyphen"/>dy effecting whereof, we do again renew our humble de<g ref="char:EOLhyphen"/>ſires of your return to your Parliament; and that you will pleaſe to reject all Counſels and apprehen<g ref="char:EOLhyphen"/>ſions, which may any way derogate from that faithful<g ref="char:EOLhyphen"/>neſſe and Allegiance, which in truth and ſinceritie we have alwayes born and profeſſed to Your Majeſty, and ſhall ever make good to the uttermoſt with our lives and fortunes.</p>
+         </div>
+         <div type="answer">
+            <pb n="5" facs="tcp:170963:5"/>
+            <head>His Majeſties Anſwer To a Petition preſented to Him at
+<hi>York,</hi> April 18. 1642. by the Earle of <hi>Stamford,</hi> &amp;c. in the name of both Houſes: Concerning His Meſſage lately ſent to them, declaring His Reſolution to go into <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E are ſo troubled and aſtoniſhed to finde the unexpected reception, and miſunderſtanding of Our Meſ<g ref="char:EOLhyphen"/>ſage of the eighth of April, con<g ref="char:EOLhyphen"/>cerning Our Iriſh journey, that being ſo much diſappointed of the approbation and thanks We looked for to that De<g ref="char:EOLhyphen"/>claration; We have great cauſe to doubt, whether it be in Our power to ſay or do any thing which ſhall not fall within the like interpretation. But as We have in that Meſſage called God to wit<g ref="char:EOLhyphen"/>neſſe the ſincerity of the profeſſion of Our onely Ends for the undertaking that Iourney: ſo We muſt appeal to all Our good Subjects, and the whole world, whether the Reaſons alleadged againſt that Iourney be of weight to ſatisfie Our<pb n="7" facs="tcp:170963:5"/>underſtanding, or the counſell preſented to diſſwade Vs from it, be full of that duety as is like to pre<g ref="char:EOLhyphen"/>vail over Our affections.</p>
+            <p>For Our reſolving of ſo great a Buſineſſe with<g ref="char:EOLhyphen"/>out the Advice of Our Parliament; We muſt re<g ref="char:EOLhyphen"/>member you howoften by Our Meſſages We made the ſame offer, if you ſhould adviſe Vs thereunto: To which you never gave Vs the leaſt anſwer: But in your late Declaration told Vs, That ye were not to be ſatisfied with words: ſo that We had reaſon to conceive you rather avoided (out of regard to Our perſon) to give Vs counſell to run that hazard, then that you diſapproved the inclina<g ref="char:EOLhyphen"/>tion. And what greater comfort or ſecurity can the Proteſtants of Chriſtendome receive, then by ſeeing a Proteſtant King venture and engage His Perſon for the defence of that Profeſſion, and the ſuppreſſion of Popery, to which We ſolemnly pro<g ref="char:EOLhyphen"/>teſted in that Meſſage, never to grant a Tolerati<g ref="char:EOLhyphen"/>on, upon what pretence ſoever, or an Abolition of any of the Lawes there in force againſt the Profeſ<g ref="char:EOLhyphen"/>ſors of it. And when We conſider the great cala<g ref="char:EOLhyphen"/>mities, and unheard of cruelties Our poor Prote<g ref="char:EOLhyphen"/>ſtant Subjects in that Kingdom have under<g ref="char:EOLhyphen"/>gone for the ſpace of neer, or full ſix Moneths, the growth and encreaſe of the ſtrength of thoſe barba<g ref="char:EOLhyphen"/>rous Rebells, and the evident probabilitie of Forreign Supplies, (if they are not ſpeedily ſuppreſſed) The very ſlow ſuccours hitherto ſent them from hence; That the Officers of ſeverall Regiments, who have long ſince been allowed en<g ref="char:EOLhyphen"/>tertainment from you for that Service, have not raiſed any Supply or Succour for that Kingdom:<pb n="8" facs="tcp:170963:6"/>That many troups of Horſe have long lien neer <hi>Cheſter</hi> untranſported; That the Lord Lieutenant of
+<hi>Ireland,</hi> on whom We relied principally for the Conduct and managing of Affairs there, is ſtill in this Kingdom, notwithſtanding Our earneſt<g ref="char:EOLhyphen"/>neſſe expreſſed that he ſhould repair to his Com<g ref="char:EOLhyphen"/>mand; And when We conſider the many and great ſcandals raiſed upon Our Self by report of the Rebells, and not ſufficiently diſcountenanced here, notwithſtanding ſo many profeſſions of Ours; And had ſeen a Book lately printed by the Order of the Houſe of Commons, Entituled; <hi>A Remonſtrance of divers remarkable Paſſages concerning the Church and Kingdom of Ireland,</hi> Wherein ſome Examinations are ſet down, which (how impro<g ref="char:EOLhyphen"/>bable or impoſſible ſoever) may make an impreſ<g ref="char:EOLhyphen"/>ſion in the mindes of many of Our weak Sub<g ref="char:EOLhyphen"/>jects; And laſtly, When We duely weigh the diſho<g ref="char:EOLhyphen"/>nour which will perpetually lie upon this King<g ref="char:EOLhyphen"/>dom, if full and ſpeedy relief be not diſpatched thi<g ref="char:EOLhyphen"/>ther, We could, nor cannot think of a better way to diſcharge Our duety to Almighty God, for the defence of the true Proteſtant Profeſſion, or to ma<g ref="char:EOLhyphen"/>nifeſt Our affection to Our three Kingdoms for their preſervation, then by engaging Our Perſon in this Expedition, as many of Our Royall Pro<g ref="char:EOLhyphen"/>genitors have done, even in Forreign parts, upon cauſes of leſſe Importance and Pietie, with great Honour to themſelves, and advantage to this Kingdom: And therefore We expected at leaſt thanks for ſuch Our Inclination.</p>
+            <p>For the danger to Our Perſon; We conceive it neceſſary and worthy of a King to adventure His<pb n="9" facs="tcp:170963:6"/>life to preſerve His Kingdom, neither can it be imagined, that We will ſit ſtill, and ſuffer Our Kingdoms to be loſt, and Our good Proteſtant Subjects to be Maſſacred, without expoſing Our own Perſon to the utmoſt hazard for their relief and preſervation: Our life, when it was moſt pleaſant, being nothing ſo precious to Vs, as it is, and ſhall be to govern and preſerve Our people with Honour and Iuſtice.</p>
+            <p>For any encouragement to the Rebells, becauſe of the reports they raiſed, We cannot conceive that the Rebells are capable of a greater Terrour, then by the preſence of their Lawfull King in the head of an Army to chaſtiſe them: Beſides, it will be an unſpeakable advantage to them, if any re<g ref="char:EOLhyphen"/>ports of theirs could hinder Vs from doing any thing which were fit for Vs to do, if ſuch reports were not raiſed: This would quickly teach them, in this jealous Age, to prevent by ſuch reports any other perſons coming againſt them, whom they had no minde ſhould be ſo imployed.</p>
+            <p>We marvell that the Adventurers, whoſe advan<g ref="char:EOLhyphen"/>tage was a principall Motive (next the reaſon be<g ref="char:EOLhyphen"/>fore mentioned) to Vs, ſhould ſo much miſtake Our purpoſe, whoſe Intereſt we conceive muſt be much improved by the Expedition we hope (by Gods bleſſing) to uſe in this Service: this being the moſt probable way for the ſpeedy Conqueſt of the Rebells: Their Lands are ſufficiently ſecured by Act of Parliament.</p>
+            <p>We think not Our ſelf kindely uſed, That the ad<g ref="char:EOLhyphen"/>dition of ſo few men to your Leavies (for a Guard to Our Perſon in <hi>Ireland</hi>) ſhould be thought fit for<pb n="10" facs="tcp:170963:7"/>your refuſall: and much more, that having uſed ſo many Cautions in this Meſſage, both in the ſmalneſſe of the number: In Our having raiſed none untill your Anſwer: In their being to be rai<g ref="char:EOLhyphen"/>ſed onely neer their place of Shipping: In their being there to be Armed, and that, not till they were ready to be Shipped: In the proviſion, by the Oaths, that none of them ſhould be Papiſts (all Which appears ſufficient to deſtroy all grounds of jealouſie of any force intended by them in oppoſiti<g ref="char:EOLhyphen"/>on to the Parliament, or favour to any malignant partie) any ſuſpicion ſhould notwithſtanding be grounded upon it.</p>
+            <p>Neither can it be underſtood, That when We recommended the Managing of that War to you, That We intended to exclude Our ſelf, or not to be concerned in your counſels, That if We found any expedient (which in Our conſcience or under<g ref="char:EOLhyphen"/>ſtanding We thought neceſſary for that great work) We might not put it in practice. We look upon you as Our great Councell, whoſe advice We alwayes have and will (with great regard and deliberati<g ref="char:EOLhyphen"/>on) weigh and conſider: But We look upon Our ſelf, as neither deprived of Our underſtanding, or deveſted of any right we had, if there were no Par<g ref="char:EOLhyphen"/>liament ſitting. We called you together by Our own Writ and Authority (without which you could not have met) to give Vs faithfull Counſell about Our great Affairs: But We reſigned not up Our own Intereſt and Freedom. We never ſubjected Our ſelf to your abſolute determination. We have alwayes weighed your Counſels, as proceeding from a Body entruſted by Vs: And when we<pb n="11" facs="tcp:170963:7"/>have diſſented from you, We have returned you the Reaſons, which have prevailed with our conſci<g ref="char:EOLhyphen"/>ence and underſtanding, with that Candor as a Prince ſhould uſe towards His Subjects; and that Affection, which a father can expreſſe to his children. What application hath been uſed to rectifie Our underſtanding by reaſons, or what Motives have been given to perſwade Our Affe<g ref="char:EOLhyphen"/>ctions, We leave all the world to judge. And then We muſt tell you, howſoever a Major part may binde you in matter of Opinion, We hold Our ſelf (and We are ſure the Law, and the Conſtitution of the Kingdom hath alwayes held the ſame) as free to diſſent (till Our Reaſon be convinced for the generall Good) as if you delivered no Opinion.</p>
+            <p>For Our Iourney it ſelf, The circumſtances of your Petition are ſuch, as We know not well what anſwer to return, or whether We were beſt to give any. That part which pretends to carry reaſon with it, doth no way ſatisfie Vs: The other, which is rather reprehenſion and Menace, then advice, can<g ref="char:EOLhyphen"/>not ſtagger Vs. Our Anſwer therefore is, That we ſhall be very glad to finde the work of <hi>Ireland</hi> ſo eaſie as you ſeem to think it, which did not ſo appear by any thing known to Vs, when we ſent Our Meſſage. And though we will never refuſe, or be unwilling to venture Our perſon for the good and ſafetie of Our People; We are not ſo weary of Our life, as to hazard it impertinently. And there<g ref="char:EOLhyphen"/>fore ſince you ſeem to have received Advertiſe<g ref="char:EOLhyphen"/>ments of ſome late and great Succeſſes in that Kingdom, We will ſtay ſome time to ſee the event of thoſe, and not purſue this Reſolution, till we<pb n="12" facs="tcp:170963:8"/>have given you a ſecond Notice. But if We finde the miſerable Condition of Our poor Subjects of that Kingdom be not ſpeedily releeved, We will (with Gods aſſiſtance) viſit them with ſuccours, as Our particular Credit and Intereſt can ſupply Vs with, if you refuſe to ioyn with Vs. And We doubt not but the Leavies We ſhall make (in which We will obſerve punctually the former, and all other Cautions, as may beſt prevent all Fears and Iealouſies, and to uſe no Power but what is Le<g ref="char:EOLhyphen"/>gall) will be ſo much to the ſatisfaction of Our Subjects, as no perſon will dare preſume to reſiſt Our Commands; and if they ſhould, at their perill. In the meane time We hope Our forwardneſſe, ſo remarkable to that ſervice, ſhall be notorious to al the world, and that all ſcandals laid on Vs in that Buſineſſe, ſhall be clearly wiped away.</p>
+            <p>We were ſo carefull that Our Iourney into <hi>Ireland</hi> ſhould not interrupt the proceedings of Par<g ref="char:EOLhyphen"/>liament, nor deprive Our Subjects of any Acts of Iuſtice, or further Acts of Grace, for the reall benefit of Our People; That We made a Free offer of leaving ſuch Power behinde, as ſhould not onely be neceſſary for the Peace and Safetie of the Kingdom; but fully provide for the happy Progreſſe of the Parliament. And therefore We cannot but wonder, ſince ſuch Power hath been alwayes left here by Commiſſion for the Govern<g ref="char:EOLhyphen"/>ment of this Kingdom, when Our Progenitours have been out of the ſame during the ſitting of Parliaments: and ſince your ſelves deſired that ſuch a Power might be left here by Vs, at Our laſt going into <hi>Scotland,</hi> what Law of the Land<pb n="13" facs="tcp:170963:8"/>have you now found to diſpenſe with you, from ſubmitting to ſuch Authority Legally derived from Vs in Our abſence, and to enable you to Go<g ref="char:EOLhyphen"/>vern this Kingdom by your own meer Autho<g ref="char:EOLhyphen"/>ritie?</p>
+            <p>For Our return towards <hi>London,</hi> We have given you ſo full an Anſwer in Our late Declara<g ref="char:EOLhyphen"/>tion, and in Anſwer to your Petition preſented to Vs at <hi>York</hi> the 26 of <hi>March</hi> laſt, that We know not what to adde, if you will not provide for Our Security with you, nor agree to remove to another Place, where there may not be the ſame Danger to Vs. We expected that (ſince We have been ſo particular in the Cauſes and Grounds of Our Fears) you ſhould have ſent Vs word, that you had publiſhed ſuch Declarations againſt future Tumults, and unlawfull Aſſemblies, and taken ſuch Courſes for the Suppreſſing of Sedi<g ref="char:EOLhyphen"/>tious Sermons and Pamphlets, that Our Fears of that kinde might be laid aſide, before you ſhould preſſe Our return.</p>
+            <p>To Conclude, We could wiſh that you would (with the ſame ſtrictneſſe and ſeverity) weigh and examine your Meſſages and Expreſſions to Vs, as you do thoſe you receive from Vs: For We are very confident, that if you examine Our Rights and Priviledges, by what Our Predeceſſours have enjoyed; and your own addreſſes, by the uſuall Courſes of your Anceſtors; ye will finde ma<g ref="char:EOLhyphen"/>ny Expreſſions in this Petition, warranted onely by your own Authority, which indeed We for<g ref="char:EOLhyphen"/>bear to take notice of, or to give Anſwer to, leſt We ſhould be tempted (in a juſt indignation) to<pb n="14" facs="tcp:170963:9" rendition="simple:additions"/>expreſſe a greater Paſſion, then We are yet willing to put on. God in his good time (We hope) will ſo inform the hearts of all Our Subiects, that We ſhall recover from the miſchief and dan<g ref="char:EOLhyphen"/>ger of this Diſtemper; On whoſe good pleaſure We will wait with all pa<g ref="char:EOLhyphen"/>tience and humilitie.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170963:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
